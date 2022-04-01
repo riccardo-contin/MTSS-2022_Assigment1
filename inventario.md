@@ -3,3 +3,4 @@
 - processori
 - schede madri
 
+# periferiche
