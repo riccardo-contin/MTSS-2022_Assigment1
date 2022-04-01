@@ -1,5 +1,6 @@
 2021904  
-1225416  
+1225416
+# componenti  
 - processori
 - schede madri
 
