@@ -4,6 +4,8 @@
 - processori
 - schede madri
 # periferiche
+- tastiere
 - mouse
+
 
 Elettronica Padovana
